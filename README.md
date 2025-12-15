@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianWeenkGames
+- 👋 Hi, I’m @TechJunkyBrian
 - 👀 I’m interested in gaming (servers)
 - 📫 How to reach me brian@brianweenk.nl
 
