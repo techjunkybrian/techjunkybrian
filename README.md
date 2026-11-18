@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechJunkyBrian
 - 👀 I’m interested in gaming (servers)
-- 📫 How to reach me brian@brianweenk.nl
+- 📫 How to reach me info@techjunkybrian.nl
 
 <!---
 BrianWeenkGames/BrianWeenkGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
